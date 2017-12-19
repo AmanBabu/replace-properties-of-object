@@ -1,0 +1,11 @@
+{
+  "name": "replace-properties-of-object",
+  "version": "1.0.0",
+  "description": "replace object properties inplace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Babu Gautam",
+  "license": "ISC"
+}
